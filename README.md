@@ -1,4 +1,7 @@
 ## 🗝️ yt-dlp_termux
+
+<img src="https://raw.githubusercontent.com/Sochamroun/Sochamroun/refs/heads/main/Gif/Gojo_.gif" width="100%" alt="Sochamroeun">
+
 [![✅ Termux](https://img.shields.io/badge/🥱-Termux_Download-blue?style=for-the-badge)](https://github.com/Sochamroun/Termux-EasySetup/releases/download/App/termux.apk)
 ## Update and upgrade 
 ```bash
