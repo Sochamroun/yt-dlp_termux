@@ -1,5 +1,4 @@
 ## 🗝️ yt-dlp_termux
-## 🌐 Termux Download video and music
 [![✅ Termux](https://img.shields.io/badge/🥱-Termux_Download-blue?style=for-the-badge)](https://github.com/Sochamroun/Termux-EasySetup/releases/download/App/termux.apk)
 ## Update and upgrade 
 ```bash
@@ -7,13 +6,13 @@ termux-setup-storage
 ```
 * Installation 
 ```bash
-curl -sL https://raw.githubusercontent.com/Sochamroun/Download-mp3-mp4/refs/heads/main/install.sh | bash
+curl -sL https://raw.githubusercontent.com/Sochamroun/yt-dlp_termux/refs/heads/main/install.sh | bash
 ```
 ## Webpage Video
 ```bash
-curl -#LO https://raw.githubusercontent.com/Sochamroun/Download-mp3-mp4/refs/heads/main/web.py
+curl -#LO https://raw.githubusercontent.com/Sochamroun/yt-dlp_termux/refs/heads/main/website.py
 ```
-* Run python web.py
+* Run python website.py
 ## Tools 
 | command | Description |
 |---------|-------------|
